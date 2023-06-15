@@ -14,7 +14,7 @@ Please go through the Power point before coming back for explination of each das
 6. Water Cut
 7. Cumulative Water Overview
 
-Dashboard Explinations:
+Dashboard Explanations:
 
 1. Number of Stages:
   Four scatter charts showing the comparison of number of fracing stages and the following four parameters
